@@ -1,4 +1,6 @@
-# @distube/ytsr
+# @pidgeonman/ytsr
+
+THIS DESCRIPTION IS OUTDATED! 
 
 A light-weight ytsr for [DisTube](https://distube.js.org). Original [ytsr](https://www.npmjs.com/package/ytsr).
 
