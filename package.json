@@ -1,5 +1,5 @@
 {
-  "name": "@distube/ytsr",
+  "name": "@pidgeonman/ytsr",
   "version": "2.0.4",
   "description": "A ytsr fork. Made for DisTube.js.org.",
   "keywords": [
@@ -7,11 +7,11 @@
     "search"
   ],
   "bugs": {
-    "url": "https://github.com/distubejs/ytsr/issues"
+    "url": "https://github.com/pidgeonman/ytsr/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/distubejs/ytsr.git"
+    "url": "git://github.com/pidgeonman/ytsr.git"
   },
   "license": "MIT",
   "author": "Skick (https://github.com/skick1234)",
